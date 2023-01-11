@@ -8,7 +8,7 @@ class josimController extends Controller
 {
 
   public function(){
-  	echo "Hi vaiya valo acen";
+  	echo "Ami aita valo korci";
   }
 
 }
